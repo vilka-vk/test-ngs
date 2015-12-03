@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+/* Mixin */
+/* Implementation */
+#somediv {
+  border-radius: 20px;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFdBQVc7Q0FDWjtBQUNELFdBQVc7QUFDWCxvQkFBb0I7QUFDcEI7RUFHRSxvQkFBb0I7Q0FDckIiLCJmaWxlIjoic3R5bGUuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiaDEge1xuICBjb2xvcjogcmVkO1xufVxuLyogTWl4aW4gKi9cbi8qIEltcGxlbWVudGF0aW9uICovXG4jc29tZWRpdiB7XG4gIC13ZWJraXQtYm9yZGVyLXJhZGl1czogMjBweDtcbiAgLW1vei1ib3JkZXItcmFkaXVzOiAyMHB4O1xuICBib3JkZXItcmFkaXVzOiAyMHB4O1xufVxuIl19 */
