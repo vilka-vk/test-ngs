@@ -11,8 +11,14 @@ body {
 .news-feed {
   max-width: 990px;
   margin: 0 auto;
-  padding: 35px 0;
+  padding: 35px;
   background-color: #ffffff;
+  overflow: hidden;
+}
+.news-feed .clearfix:after {
+  display: table;
+  content: '';
+  clear: both;
 }
 .news-feed .news-line__news {
   float: left;

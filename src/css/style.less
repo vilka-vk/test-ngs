@@ -12,9 +12,15 @@ body{
 .news-feed {
   max-width: 990px;
   margin: 0 auto;
-  padding: 35px 0;
+  padding: 35px;
   background-color: #ffffff;
+  overflow: hidden;
+.clearfix:after {
+  display: table;
+  content: '';
+  clear: both;
 
+}
   .news-line__news {
     float: left;
     max-width: 269px;
