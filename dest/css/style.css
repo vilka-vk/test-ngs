@@ -4,4 +4,28 @@ body {
   line-heights: 18px;
   font-weight: 400;
   color: #333333;
+  background: url('../img/bg4.jpg') no-repeat;
+  background-size: cover;
+  /*background-color: #1d7276;*/
+}
+.news-feed {
+  max-width: 990px;
+  margin: 0 auto;
+  padding: 35px 0;
+  background-color: #ffffff;
+}
+.news-feed .news-line__news {
+  float: left;
+  max-width: 269px;
+  height: 340px;
+  margin-right: 12px;
+}
+.news-feed .news-line__news .news-photo {
+  width: 256px;
+  height: 192px;
+  margin: 0;
+}
+.news-feed .news-line__news .news-photo__1 {
+  background: url('../img/news-item/7.jpg') center no-repeat;
+  background-size: cover;
 }
